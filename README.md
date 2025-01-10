@@ -1,4 +1,5 @@
 # Order Performance Analytics Dashboard
+
 This dashboard provides a comprehensive analysis of order trends and performance metrics across various dimensions, including segments, categories, cities, and regions. Key features include:
 
 * Visual breakdown of orders by segment, category, and city.
@@ -7,3 +8,5 @@ This dashboard provides a comprehensive analysis of order trends and performance
 * Key metrics such as the total number of orders, customers, states, and segments.
 
 Built using modern data visualization techniques, this dashboard highlights actionable insights for decision-making in order management and sales optimization.
+
+Link for the report - [https://lookerstudio.google.com/reporting/2b451b52-eafb-402b-afc0-43ca18947f5d](url)
