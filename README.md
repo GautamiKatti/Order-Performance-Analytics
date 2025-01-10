@@ -9,4 +9,4 @@ This dashboard provides a comprehensive analysis of order trends and performance
 
 Built using modern data visualization techniques, this dashboard highlights actionable insights for decision-making in order management and sales optimization.
 
-[Link for the report]([url](https://lookerstudio.google.com/reporting/2b451b52-eafb-402b-afc0-43ca18947f5d))
+[Link for the report](https://lookerstudio.google.com/reporting/2b451b52-eafb-402b-afc0-43ca18947f5d)
